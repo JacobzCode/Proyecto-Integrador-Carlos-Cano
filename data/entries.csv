@@ -1,0 +1,5 @@
+id,account_id,handle,mood,comment,sleep_hours,appetite,concentration,created
+1,1,carlos,5,estoy maluco,,,,2025-10-23T14:21:25.486635
+2,1,carlos,2,No me encuentro bien,,,,2025-10-23T14:23:27.610525
+3,2,Juan,7,Estoy happy,,,,2025-10-23T14:24:30.665147
+4,2,Juan,3,,,,,2025-10-23T14:25:14.392717

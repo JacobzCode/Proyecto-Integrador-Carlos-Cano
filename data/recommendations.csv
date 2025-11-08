@@ -1,0 +1,11 @@
+id,risk_level,title,description,url
+1,ALTO,🚨 Contacto Profesional Urgente,"Tu estado emocional muestra señales de alerta. Te recomendamos contactar a un profesional de salud mental lo antes posible. Recuerda que pedir ayuda es un acto de valentía.",https://www.minsalud.gov.co/salud/Paginas/salud-mental.aspx
+2,ALTO,📞 Línea de Crisis 24/7,"Si estás atravesando una crisis emocional, puedes contactar la Línea 106 de orientación en salud mental (Colombia) disponible 24/7. No estás solo.",tel:106
+3,MODERADO,🧘 Técnicas de Relajación,"Practicar técnicas de respiración profunda y mindfulness puede ayudarte a reducir el estrés. Dedica 10-15 minutos al día para ejercicios de relajación.",https://www.mindful.org/meditation/mindfulness-getting-started/
+4,MODERADO,💪 Actividad Física Regular,"El ejercicio físico regular (30 min, 3 veces por semana) ha demostrado mejorar significativamente el estado de ánimo y reducir síntomas de ansiedad.",https://www.who.int/news-room/fact-sheets/detail/physical-activity
+5,MODERADO,📝 Monitoreo Semanal,"Realiza un seguimiento semanal de tu estado emocional. Anota patrones y compártelos con alguien de confianza o un profesional.",
+6,MODERADO,😴 Higiene del Sueño,"Mantén horarios regulares de sueño (7-9 horas), evita pantallas antes de dormir y crea un ambiente tranquilo en tu habitación.",https://www.sleepfoundation.org/sleep-hygiene
+7,BAJO,✅ Mantener Hábitos Saludables,"Estás en un buen nivel emocional. Continúa con tus hábitos saludables: ejercicio regular, alimentación balanceada y tiempo de calidad con personas cercanas.",
+8,BAJO,🌱 Crecimiento Personal,"Considera explorar nuevas actividades que te apasionen, aprender algo nuevo o fortalecer tus relaciones interpersonales.",
+9,BAJO,🙏 Apoyo a Otros,"Tu bienestar te posiciona para ayudar a otros. Considera ser un apoyo para quienes puedan estar pasando por momentos difíciles.",
+10,BAJO,📊 Revisión Periódica,"Aunque te sientes bien, continúa monitoreando tu estado emocional regularmente para detectar cualquier cambio temprano.",
